@@ -65,3 +65,5 @@ Project about learning python in 100 days
 [Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-28)
 
 [Day 29 - Building a Password Manager GUI App with Tkinter](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-29)
+
+[Day 30 - Errors, Exceptions and JSON Data: Improving the Password](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-30)
