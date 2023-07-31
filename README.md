@@ -69,3 +69,5 @@ Project about learning python in 100 days
 [Day 30 - Errors, Exceptions and JSON Data: Improving the Password](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-30)
 
 [Day 31 - Flash Card App Capstone Project](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-31)
+
+[Day 32 - Send Email (smtplib) & Manage Dates (datetime)](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-32)
