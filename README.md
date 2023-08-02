@@ -73,3 +73,5 @@ Project about learning python in 100 days
 [Day 32 - Send Email (smtplib) & Manage Dates (datetime)](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-32)
 
 [Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-33)
+
+[Day 34 - API Practice - Creating a GUI Quiz App](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-34)
