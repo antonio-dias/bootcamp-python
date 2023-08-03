@@ -75,3 +75,5 @@ Project about learning python in 100 days
 [Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-33)
 
 [Day 34 - API Practice - Creating a GUI Quiz App](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-34)
+
+[Day 35 - Keys, Authentication & Environment Variables: Send SMS](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-35)
