@@ -83,5 +83,3 @@ Project about learning python in 100 days
 [Day 37 - Habit Tracking Project: API Post Requests & Headers](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-37)
 
 [Day 38 - Workout Tracking Using Google Sheets](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-38)
-
-[Day 39 - Capstone Part1: Flight Deal Finder](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-39)
