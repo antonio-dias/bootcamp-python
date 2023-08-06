@@ -81,3 +81,5 @@ Project about learning python in 100 days
 [Day 36 - Stock Trading News Alert Project](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-36)
 
 [Day 37 - Habit Tracking Project: API Post Requests & Headers](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-37)
+
+[Day 38 - Workout Tracking Using Google Sheets](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-38)
