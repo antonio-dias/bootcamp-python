@@ -91,3 +91,5 @@ Project about learning python in 100 days
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
+
+[Day 42 - Intermediate HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-42)
