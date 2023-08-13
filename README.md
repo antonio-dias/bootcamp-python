@@ -88,6 +88,8 @@ Project about learning python in 100 days
 
 [Day 40 - Capstone Part 2: Flight Club](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-40)
 
+[Day 45 - Web Scraping with Beautiful Soup](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-45)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
