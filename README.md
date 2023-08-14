@@ -90,6 +90,8 @@ Project about learning python in 100 days
 
 [Day 45 - Web Scraping with Beautiful Soup](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-45)
 
+[Day 46 - Create a Spotify Playlist using the Musical Time Machine](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-46)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
