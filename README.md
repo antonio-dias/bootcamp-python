@@ -92,6 +92,8 @@ Project about learning python in 100 days
 
 [Day 46 - Create a Spotify Playlist using the Musical Time Machine](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-46)
 
+[Day 47 - Create an Automated Amazon Price Tracker](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-47)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
