@@ -94,6 +94,8 @@ Project about learning python in 100 days
 
 [Day 47 - Create an Automated Amazon Price Tracker](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-47)
 
+[Day 48 - Selenium Webdriver Browser and Game Playing Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-48)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
