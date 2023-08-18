@@ -96,6 +96,8 @@ Project about learning python in 100 days
 
 [Day 48 - Selenium Webdriver Browser and Game Playing Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-48)
 
+[Day 49 - Automating Job Applications on LinkedIn](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-49)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
