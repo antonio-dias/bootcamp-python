@@ -98,6 +98,8 @@ Project about learning python in 100 days
 
 [Day 49 - Automating Job Applications on LinkedIn](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-49)
 
+[Day 50 - Auto Tinder Swiping Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-50)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
