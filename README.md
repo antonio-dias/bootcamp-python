@@ -100,6 +100,8 @@ Project about learning python in 100 days
 
 [Day 50 - Auto Tinder Swiping Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-50)
 
+[Day 51 - Speed Twitter Complaint Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-51)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
