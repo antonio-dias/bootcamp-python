@@ -104,6 +104,8 @@ Project about learning python in 100 days
 
 [Day 52 - Instagram Follwer Bot](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-52)
 
+[Day 53 - Web Scraping Capstone - Data Entry Job Automation](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-53)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
