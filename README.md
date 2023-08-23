@@ -106,6 +106,8 @@ Project about learning python in 100 days
 
 [Day 53 - Web Scraping Capstone - Data Entry Job Automation](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-53)
 
+[Day 54 - Introduction to Web Development with Flask](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-54)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
