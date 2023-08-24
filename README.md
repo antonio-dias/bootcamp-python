@@ -108,6 +108,8 @@ Project about learning python in 100 days
 
 [Day 54 - Introduction to Web Development with Flask](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-54)
 
+[Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-55)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
