@@ -112,6 +112,8 @@ Project about learning python in 100 days
 
 [Day 56 - Rendering HTML/Static files and Using Website Templates](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-56)
 
+[Day 57 - Templating with Jinja in Flask Applications](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-57)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
