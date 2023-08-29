@@ -114,6 +114,10 @@ Project about learning python in 100 days
 
 [Day 57 - Templating with Jinja in Flask Applications](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-57)
 
+### Advanced
+
+[Day 59 - Blog Capstone Project Part 2 - Adding Styling](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-59)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
