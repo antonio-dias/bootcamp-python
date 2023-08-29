@@ -118,6 +118,8 @@ Project about learning python in 100 days
 
 [Day 59 - Blog Capstone Project Part 2 - Adding Styling](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-59)
 
+[Day 60 - Make POST Requests with Flask and HTML Forms](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-60)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
