@@ -120,6 +120,8 @@ Project about learning python in 100 days
 
 [Day 60 - Make POST Requests with Flask and HTML Forms](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-60)
 
+[Day 61 - Building Advanced Forms with Flask-WTForms](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-61)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
