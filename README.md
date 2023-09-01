@@ -122,6 +122,8 @@ Project about learning python in 100 days
 
 [Day 61 - Building Advanced Forms with Flask-WTForms](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-61)
 
+[Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-62)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
