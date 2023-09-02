@@ -124,6 +124,8 @@ Project about learning python in 100 days
 
 [Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-62)
 
+[Day 63 - Databases and with SQLite and SQLAlchemy](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-63)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
