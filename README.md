@@ -139,3 +139,5 @@ Project about learning python in 100 days
 [Day 44 - Intermediate CSS](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-44)
 
 [Day 58 - Bootstrap](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-58)
+
+[Day 65 - How to Create a Website that People will Love](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-65)
