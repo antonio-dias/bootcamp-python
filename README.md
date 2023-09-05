@@ -128,6 +128,8 @@ Project about learning python in 100 days
 
 [Day 64 - My Top 10 Movies Website](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-64)
 
+[Day 66 - Building Your Own API with RESTful Routing](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-66)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
