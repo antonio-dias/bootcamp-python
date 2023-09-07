@@ -134,6 +134,8 @@ Project about learning python in 100 days
 
 [Day 68 - Authentication with Flask](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-68)
 
+[Day 69 - Blog Capstone Project Part 4 - Adding Users](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-69)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
