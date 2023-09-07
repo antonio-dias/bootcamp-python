@@ -132,6 +132,8 @@ Project about learning python in 100 days
 
 [Day 67 - Blog Capstone Project Part 3 - RESTful Routing](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-67)
 
+[Day 68 - Authentication with Flask](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-68)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
