@@ -136,6 +136,8 @@ Project about learning python in 100 days
 
 [Day 69 - Blog Capstone Project Part 4 - Adding Users](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-69)
 
+[Day 70 - Git, Github and Version Control](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-70)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
