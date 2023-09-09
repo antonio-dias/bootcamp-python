@@ -138,6 +138,8 @@ Project about learning python in 100 days
 
 [Day 70 - Git, Github and Version Control](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-70)
 
+[Day 71 - Deploying Your Web Application](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-71)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
