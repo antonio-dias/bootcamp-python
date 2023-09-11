@@ -140,6 +140,8 @@ Project about learning python in 100 days
 
 [Day 71 - Deploying Your Web Application](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-71)
 
+[Day 72 - Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-72)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
