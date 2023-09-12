@@ -142,6 +142,8 @@ Project about learning python in 100 days
 
 [Day 72 - Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-72)
 
+[Day 73 - Data Visualization with Matplotlib: Programming Languages](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-73)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
