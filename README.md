@@ -144,6 +144,8 @@ Project about learning python in 100 days
 
 [Day 73 - Data Visualization with Matplotlib: Programming Languages](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-73)
 
+[Day 74 - Aggregate & Merge Data with Pandas: Analyse the Lego Dataset](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-74)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
