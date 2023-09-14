@@ -146,6 +146,8 @@ Project about learning python in 100 days
 
 [Day 74 - Aggregate & Merge Data with Pandas: Analyse the Lego Dataset](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-74)
 
+[Day 75 - Google Trends Data: Resampling and Visualising Time Series](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-75)
+
 ### Web Foundation
 
 [Day 41 - Introduction to HTML](https://github.com/antonio-dias/bootcamp-python/tree/master/Day-41)
